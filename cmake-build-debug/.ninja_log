@@ -1,0 +1,11 @@
+# ninja log v5
+2	190	1641252386643619446	CMakeFiles/employee_admin.dir/src/main.c.o	7e845f616f3d2a3b
+1	120	1641254158119471656	CMakeFiles/employee_admin.dir/src/controller/StartupCommand.c.o	47117f97de91758b
+3	321	1641350542296362581	CMakeFiles/employee_admin.dir/src/model/ServiceProxy.c.o	8c0d8acc64a6ecf5
+112	177	1641350567631672732	employee_admin	58c8d10f70d647c5
+2	56	1641251329810760928	CMakeFiles/employee_admin.dir/src/model/valueObject/ServiceRequest.c.o	ae1125437baad4f7
+3	112	1641350567565482248	CMakeFiles/employee_admin.dir/src/view/components/Service.c.o	17d57d22e332fd87
+2	78	1641255291426434381	CMakeFiles/employee_admin.dir/src/controller/ServiceCommand.c.o	98c247bcbf0647b7
+6	141	1641252386594552856	CMakeFiles/employee_admin.dir/src/model/request/ServiceRequest.c.o	3ff35d4693cdb87b
+7	329	1641350542306229546	CMakeFiles/employee_admin.dir/src/view/ServiceMediator.c.o	4adadd4cad414269
+3	191	1641252386644930728	CMakeFiles/employee_admin.dir/src/ApplicationFacade.c.o	5ede23aca42d1f5b
